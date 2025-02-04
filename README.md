@@ -3,6 +3,10 @@
 🚀 **Full Stack Engineer | Frontend Specialist** 🚀  
 I build **scalable, high-performance web applications** with a keen eye for **UI/UX and interactive design**. Currently, I'm **seeking Summer 2025 internships** to further enhance my skills and contribute to impactful projects.
 
+🧑‍💻 **Code Ninja by Day, Pixel Artist by Night** 🎨
+☕ Fueled by coffee and an endless curiosity for new tech trends!
+🎮 When not coding, you’ll find me mastering a game, sketching UI ideas, or exploring digital art.
+
 ---
 
 ## 🛠 Tech Stack & Expertise
@@ -21,6 +25,12 @@ I build **scalable, high-performance web applications** with a keen eye for **UI
 - 📊 **Building Data Visualization Dashboards**
 - 🚀 **Optimizing Performance & Scalability**
 - 🌍 **Developing Web Apps with Global Reach**
+
+---
+
+## 🎓 Education
+
+🎓 I am a student at **University of Illinois at Chicago**, pursuing my **Master’s in Computer Science**, and graduating in **May 2026**.
 
 ---
 
@@ -69,3 +79,4 @@ I build **scalable, high-performance web applications** with a keen eye for **UI
 ---
 
 > *"The only way to do great work is to love what you do."* – Steve Jobs
+
