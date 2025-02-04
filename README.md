@@ -20,7 +20,6 @@ I build **scalable, high-performance web applications** with a keen eye for **UI
 - 🎨 **Crafting Beautiful & Accessible UI/UX**
 - 📊 **Building Data Visualization Dashboards**
 - 🚀 **Optimizing Performance & Scalability**
-- 🎧 **AI & Interactive Music Visualizations**
 - 🌍 **Developing Web Apps with Global Reach**
 
 ---
