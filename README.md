@@ -72,7 +72,7 @@ I build **scalable, high-performance web applications** with a keen eye for **UI
 ## 🤝 Let's Connect!
 
 📧 **Email:** [skris56@uic.edu](mailto:skris56@uic.edu)  
-🌐 **Portfolio:** [skris56.people.uic.edu](https://skris56.people.uic.edu)  
+🌐 **Portfolio:** [https://krishna-shri.github.io/personal_portfolio/](https://krishna-shri.github.io/personal_portfolio/)  
 💼 **LinkedIn:** [shri-krishna-20](https://www.linkedin.com/in/shri-krishna-20/)  
 🐙 **GitHub:** [krishna-shri](https://github.com/krishna-shri) | [skris56uic](https://github.com/skris56uic)  
 
