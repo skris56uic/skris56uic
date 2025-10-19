@@ -95,6 +95,8 @@ I design and develop **scalable, high-performance web applications** with a stro
 
 ![Shri Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=skris56uic&show_icons=true&theme=radical)
 
+🔗 **Want to see my personal work?** Check out my **[personal GitHub account](https://github.com/krishna-shri)**!
+
 ---
 
 ## 🤝 Let's Connect!
