@@ -1,21 +1,19 @@
-# Hi there, I'm **Shri Krishna**! 👋
+# Hi there, I'm **Shri Krishna** 👋
 
 🚀 **Full Stack Engineer | Frontend Specialist** 🚀  
-I build **scalable, high-performance web applications** with a keen eye for **UI/UX and interactive design**. Currently, I'm **seeking Summer 2025 internships** to further enhance my skills and contribute to impactful projects.
-
-🧑‍💻 **Code Ninja by Day, Pixel Artist by Night** 🎨
-☕ Fueled by coffee and an endless curiosity for new tech trends!
-🎮 When not coding, you’ll find me mastering a game, sketching UI ideas, or exploring digital art.
+I design and develop **scalable, high-performance web applications** with a strong focus on **UI/UX, accessibility, and system efficiency**. I am currently seeking **Full-Time Software Engineering roles starting in 2026 (May)**, where I can contribute to building reliable, user-centered digital experiences.
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## 🧠 Technical Expertise
 
-- **Frontend:** ReactJS, Angular, VueJS, TypeScript, HTML, CSS, SASS, LESS
-- **Backend:** Node.js, Go, Java, NestJS, Express.js
-- **Databases:** MongoDB, MySQL, Cassandra, PostgreSQL
-- **DevOps & Cloud:** Docker, Kubernetes, AWS, OpenStack, Jenkins, Ansible
-- **UI/UX & Visualization:** Figma, Highcharts, Ag-Grid, Prometheus, Grafana
+- **Languages:** Java, JavaScript, TypeScript, HTML, CSS, SASS, LESS, Go, MySQL, YAML, Bash  
+- **Frontend:** ReactJS, Angular, VueJS, React Native, Bootstrap  
+- **Backend:** Node.js, Go, NestJS, Express.js, JBoss  
+- **Databases:** MongoDB, MySQL, Cassandra, PostgreSQL  
+- **Testing & Automation:** Cypress, Vitest, Playwright, Katalon Studio, Selenium  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, OpenStack, OpenShift, Jenkins, Drone, Azure, Ansible, Linux  
+- **UI/UX & Visualization:** Figma, Highcharts, Ag-Grid, Prometheus, Grafana, ElectronJS, VictoriaMetrics  
 
 ---
 
@@ -30,22 +28,45 @@ I build **scalable, high-performance web applications** with a keen eye for **UI
 
 ## 🎓 Education
 
-🎓 I am a student at **University of Illinois at Chicago**, pursuing my **Master’s in Computer Science**, and graduating in **May 2026**.
+🎓 I am a student at **University of Illinois at Chicago**, currently pursuing my **Master’s in Computer Science**, and graduating in **May 2026**.
 
 ---
 
-## 💻 Experience
+## 💼 Professional Experience
 
-### **Graduate Assistant - UIC Technology Solutions**
-📍 *October 2024 – Present* | *Chicago, IL*
-- Developed reusable UI components, reducing code duplication by 20%
-- Automated UI testing via YAML scripts, cutting issue resolution time by 70%
+### **Frontend Developer — UIC Technology Solutions**
+📍 *October 2024 – Present* | *Chicago, IL*  
+- Built a **unified design system** in VueJS to ensure consistency across university applications.  
+- Introduced **automated testing workflows** that improved development reliability and reduced UI regressions.  
+- Championed accessibility by aligning all components with **W3C standards**, creating inclusive user experiences.  
 
-### **Full Stack Developer - Tata Consultancy Services**
-📍 *September 2020 – July 2024* | *Bengaluru, India*
-- Designed and implemented **multi-tenancy & RBAC**, reducing operational costs by 50%
-- Led a team to develop **Cypress test suites**, accelerating release cycles by 60%
-- Built **interactive data visualizations** that increased customer retention by 40%
+---
+
+### **Software Engineer Intern — Mediaocean**
+📍 *June 2025 – August 2025* | *Chicago, IL*  
+- Reimagined an internal scheduling tool with ReactJS, creating a more intuitive and efficient interface.  
+- Simplified complex user workflows into a seamless single-step process, improving usability and reducing onboarding effort.  
+
+---
+
+### **Full Stack Developer — Tata Consultancy Services**
+📍 *September 2020 – July 2024* | *Bengaluru, India*  
+
+**NetApp Service Engine**  
+- Implemented **multi-tenant architecture and access control**, supporting multiple clients on shared infrastructure.  
+- Led a small engineering team to establish **automated testing pipelines**, streamlining deployment cycles.  
+
+**ActiveIQ**  
+- Created **interactive dashboards** to visualize performance and usage analytics for enterprise storage systems.  
+- Designed a **real-time defense algorithm** in Go to detect and mitigate ransomware-like behavior.  
+
+**ASUP Tracer**  
+- Developed a **timeline visualization tool** for tracking incident reports, improving visibility and coordination.  
+- Optimized backend performance by migrating log handling from client-side scripts to an ExpressJS service.  
+
+**Keystone Onboarding Hub**  
+- Built a **ReactJS portal** that accelerated customer onboarding through structured device mapping workflows.  
+- Integrated **single sign-on and local authentication**, ensuring secure and flexible access for enterprise users.  
 
 ---
 
@@ -60,6 +81,13 @@ I build **scalable, high-performance web applications** with a keen eye for **UI
 *Discover, book, and manage sports venues effortlessly*  
 - **Tech:** ReactJS, Material UI, OpenStreetMap, ExpressJS  
 - **Highlights:** Smart geolocation search and sport-specific filtering
+
+---
+
+## 🏆 Certifications & Leadership
+
+- **Red Hat Certified Specialist** in Ansible, Virtualization, JBoss, OpenShift, and OpenStack.  
+- Taught and mentored students as part of the **RHCSA and RHCE certification programs**, focusing on Linux system administration and automation.  
 
 ---
 
